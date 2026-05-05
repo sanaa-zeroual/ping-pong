@@ -1102,4 +1102,4 @@ This project is part of the 42 School curriculum and is intended for educational
 
 **Project Status**: ✅ Complete (26/14 points)  
 **Last Updated**: January 22, 2026  
-**Contact**: mel-mehdi (42 Intra)
+**Contact**: mel-mehdi (42 Intra).
